@@ -12,7 +12,6 @@
   
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=for-the-badge&logo=react)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=for-the-badge&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=for-the-badge&logo=typescript)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=for-the-badge&logo=next.js)
   ![CSS & HTML](https://img.shields.io/badge/-CSS-0A1A2F?style=for-the-badge&logo=css3)
