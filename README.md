@@ -1,7 +1,7 @@
 
 ## Olá 👋 Eu sou Guilherme Almorim.
 
-### Tenho 22 anos, sou desenvolvedor de softwares e atualmente me especializando em sistemas web.
+### Tenho 26 anos, sou desenvolvedor de softwares e atualmente me especializando em sistemas web.
 
 ## 🛠 &nbsp; Minha Stack
 
